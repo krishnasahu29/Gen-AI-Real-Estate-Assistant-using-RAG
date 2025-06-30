@@ -27,9 +27,8 @@ Git
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/gen-ai-real-estate-assistant.git
-cd gen-ai-real-estate-assistant
-
+bashgit clone https://github.com/krishnasahu29/Gen-AI-Real-Estate-Assistant-using-RAG.git
+cd Gen-AI-Real-Estate-Assistant-using-RAG
 Create virtual environment
 
 bashpython -m venv venv
